@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bbuild/_deps/chemfiles-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bbuild/_deps/fmt-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bbuild/_deps/icm-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bbuild/_deps/stdexec-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug-test_stdexec/_deps/chemfiles-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug-test_stdexec/_deps/fmt-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug-test_stdexec/_deps/icm-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cmake-build-debug-test_stdexec/_deps/stdexec-src" vcs="Git" />
+  </component>
+</project>
